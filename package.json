@@ -1,0 +1,34 @@
+{
+  "name": "MFarelS-Api",
+  "version": "1.0.0",
+  "description": "THX To @IbnuSyawall, @St4rz, @MrHecka, @Sandhika Galih, @HisyamArdiansyah, @Ilham Nezuko",
+  "author": "MFarelS",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cookie-parser": "~1.4.5",
+    "cors": "^2.8.5",
+    "debug": "~4.3.2",
+    "express": "~4.17.1",
+    "fbdl-core": "^1.0.2",
+    "fetch-video": "^2.5.5",
+    "genius-lyrics": "^4.2.9",
+    "google-it": "^1.6.2",
+    "kitsu.js": "^2.0.0",
+    "lodash": "^4.17.21",
+    "morgan": "~1.10.0",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "pastebin-js": "^1.0.6",
+    "performance-now": "^2.1.0",
+    "text-summarisation": "^2.0.0",
+    "tinyurl": "^1.1.7",
+    "qrcode": "^1.4.4",
+    "ytdl-core": "^4.9.1"
+  }
+}
