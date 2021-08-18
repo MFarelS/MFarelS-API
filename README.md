@@ -28,10 +28,10 @@ npm install
 ```
 
 ###### Edit APIKEY & USERNAME & PASSWORD
-* Login/Sign Up in https://genius.com/api-clients# , Copy And Paste Your Access Token In [Line 15](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.html#L15)
-* Login /Sign Up In https://pastebin.com/doc_api#1 Copy & Paste Dev Key On YOUR_DEV_KEY In [Line 247](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.html#L247)
-* Fill your pastebin username on YOUR_PASTEBIN_USERNAME in [Line 248](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.html#L248)
-* Fill your pastebin password on YOUR_PASTEBIN_PASSWORD in [Line 249](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.html#L249)
+* Login/Sign Up in https://genius.com/api-clients# , Copy And Paste Your Access Token In [Line 15](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.js#L15)
+* Login /Sign Up In https://pastebin.com/doc_api#1 Copy & Paste Dev Key On YOUR_DEV_KEY In [Line 247](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.js#L247)
+* Fill your pastebin username on YOUR_PASTEBIN_USERNAME in [Line 248](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.js#L248)
+* Fill your pastebin password on YOUR_PASTEBIN_PASSWORD in [Line 249](https://github.com/MFarelS/MFarelS-API/blob/master/routes/index.js#L249)
 
 ##### Start
 ```
